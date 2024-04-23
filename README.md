@@ -7,23 +7,25 @@
 ### [![jeguerin's 42 stats](https://badge.mediaplus.ma/colorfulwaves/jeguerin?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jayz66&label=Profile%20views&color=e66700&style=flat-square" alt="jayz66" /> </p>
 
-<h3 align="left">Languages and Tools</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
-
+### About me 📈
 - 🔭 I’m currently working on [Minishell !](https://github.com/JayZ66/Minishell.git)
 
 - 🌱 I’m currently learning **c language !**
 
 - 💬 Ask me about **Project management, agile methodology, business management & c language.**
+</br>
+
+<h3 align="left">Languages and Tools</h3>
+<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
+</br>
 
 ### Statistics 📈
-<p style="text-align: center;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jayz66&show_icons=true&theme=cobalt&title_color=e75f04&text_color=dba100&bg_color=000000&hide_border=true&locale=en&layout=compact" alt="jayz66" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jayz66&show_icons=true&theme=cobalt&title_color=e75f04&text_color=dba100&bg_color=000000&hide_border=true&locale=en&layout=compact" alt="jayz66" style="width: 50%;" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jayz66&theme=highcontrast" alt="jayz66" style="width: 50%;" />
 </p>
-
-<p style="text-align: center; margin-top: 20px;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=jayz66&theme=highcontrast" alt="jayz66" />
-</p>
+</br>
 
 ## Connect with me 📞
 <div align="center">

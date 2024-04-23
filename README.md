@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there ☀️
 
 <p align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGczaWQ5ZGdjbDR6bXozMzN2M3B5N2x2d2QzbTVrMWJtZDN5bzZiciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gH1jGsCnQBiFHWMFzh/giphy.gif" alt="Description du GIF" width="80%">

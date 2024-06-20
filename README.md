@@ -8,7 +8,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jayz66&label=Profile%20views&color=e66700&style=flat-square" alt="jayz66" /> </p>
 
 ### About me 📈
-- 🔭 I’m currently working on [Minishell !](https://github.com/JayZ66/Minishell.git)
+- 🔭 I’m currently working on [Philosophers !](git@github.com:JayZ66/Philosophers.git)
 
 - 🌱 I’m currently learning **c language !**
 

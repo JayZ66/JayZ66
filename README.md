@@ -10,7 +10,7 @@
 ### About me 📈
 - 🔭 I’m currently looking for a job after finishing my internship and 42 school !!
 
-- 🌱 I’m currently learning **Typescript language !**
+- 🌱 I’m currently learning **Typescript language & Amazon Web Services !**
 
 - 💬 Ask me about **Project management, agile methodology, business management & c language.**
 </br>

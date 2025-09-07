@@ -8,9 +8,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jayz66&label=Profile%20views&color=e66700&style=flat-square" alt="jayz66" /> </p>
 
 ### About me 📈
-- 🔭 I’m currently working on [CPP](https://github.com/JayZ66/CPP) & on [Webserv](https://github.com/Tulece/42webserv) !
+- 🔭 I’m currently looking for a job after finishing my internship and 42 school !!
 
-- 🌱 I’m currently learning **c language !**
+- 🌱 I’m currently learning **Typescript language !**
 
 - 💬 Ask me about **Project management, agile methodology, business management & c language.**
 </br>
